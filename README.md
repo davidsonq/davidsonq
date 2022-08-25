@@ -11,7 +11,7 @@
   <img align="center" alt="Davidson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Davidson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="right" alt="gif" height="40"  src="https://www.codewars.com/users/davidsonq/badges/large">
+  <img align="right"  height="40"  src="https://www.codewars.com/users/davidsonq/badges/large">
 </div>
   
   ##
