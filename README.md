@@ -1,5 +1,5 @@
-## Oi eu sou a Davidson Quaresma, desenvolvedor web!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+## Oi eu sou a Davidson Quaresma, desenvolvedor full stack!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidsonq&show_icons=true&theme=radical)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Davidson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
