@@ -1,4 +1,4 @@
-## Oi eu sou a Davidson Quaresma, desenvolvedor full stack!
+## Oi eu sou o Davidson Quaresma, desenvolvedor full stack!
 
 
 <div style="display: inline_block"><br>
